@@ -1,4 +1,4 @@
-package org.expressme.webwind;
+package com.cmwebgame.core;
 
 import java.lang.reflect.Method;
 

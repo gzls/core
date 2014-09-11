@@ -1,11 +1,11 @@
-package org.expressme.webwind;
+package com.cmwebgame.core;
 
 import javax.servlet.ServletException;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-import org.expressme.webwind.container.ContainerFactory;
-import org.expressme.webwind.template.TemplateFactory;
+import com.cmwebgame.core.container.ContainerFactory;
+import com.cmwebgame.core.template.TemplateFactory;
 
 /**
  * Utils for create ContainerFactory, TemplateFactory, etc.

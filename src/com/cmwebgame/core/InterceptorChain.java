@@ -1,4 +1,4 @@
-package org.expressme.webwind;
+package com.cmwebgame.core;
 
 /**
  * Holds all interceptors as a chain.

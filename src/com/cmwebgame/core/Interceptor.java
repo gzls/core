@@ -1,4 +1,4 @@
-package org.expressme.webwind;
+package com.cmwebgame.core;
 
 /**
  * Intercept action's execution like servlet Filter, but interceptors are 

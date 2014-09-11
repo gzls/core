@@ -1,4 +1,4 @@
-package org.expressme.webwind.renderer;
+package com.cmwebgame.core.renderer;
 
 import javax.servlet.ServletContext;
 import javax.servlet.http.HttpServletRequest;

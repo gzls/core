@@ -1,4 +1,4 @@
-package org.expressme.webwind.renderer;
+package com.cmwebgame.core.renderer;
 
 /**
  * Convenience for render JavaScript.

@@ -1,4 +1,4 @@
-package org.expressme.webwind;
+package com.cmwebgame.core;
 
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;

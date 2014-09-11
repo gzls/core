@@ -1,4 +1,4 @@
-package org.expressme.webwind.template;
+package com.cmwebgame.core.template;
 
 import java.io.BufferedInputStream;
 import java.io.File;
@@ -12,7 +12,7 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.apache.velocity.runtime.RuntimeConstants;
 import org.apache.velocity.runtime.RuntimeInstance;
-import org.expressme.webwind.Config;
+import com.cmwebgame.core.Config;
 
 /**
  * Template factory using Velocity.

@@ -1,4 +1,4 @@
 /**
  * Package that support Guice.
  */
-package org.expressme.webwind.guice;
+package com.cmwebgame.core.guice;

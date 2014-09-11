@@ -1,4 +1,4 @@
-package org.expressme.webwind;
+package com.cmwebgame.core;
 
 /**
  * Object which has resource to release should implement this interface.

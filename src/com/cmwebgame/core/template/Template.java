@@ -1,4 +1,4 @@
-package org.expressme.webwind.template;
+package com.cmwebgame.core.template;
 
 import java.util.Map;
 

@@ -1,4 +1,4 @@
-package org.expressme.webwind;
+package com.cmwebgame.core;
 
 import java.io.IOException;
 import java.lang.reflect.Method;
@@ -17,13 +17,13 @@ import javax.servlet.http.HttpServletResponse;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-import org.expressme.webwind.container.ContainerFactory;
-import org.expressme.webwind.converter.ConverterFactory;
-import org.expressme.webwind.renderer.JavaScriptRenderer;
-import org.expressme.webwind.renderer.Renderer;
-import org.expressme.webwind.renderer.TextRenderer;
-import org.expressme.webwind.template.JspTemplateFactory;
-import org.expressme.webwind.template.TemplateFactory;
+import com.cmwebgame.core.container.ContainerFactory;
+import com.cmwebgame.core.converter.ConverterFactory;
+import com.cmwebgame.core.renderer.JavaScriptRenderer;
+import com.cmwebgame.core.renderer.Renderer;
+import com.cmwebgame.core.renderer.TextRenderer;
+import com.cmwebgame.core.template.JspTemplateFactory;
+import com.cmwebgame.core.template.TemplateFactory;
 
 /**
  * Dispatcher handles ALL requests from clients, and dispatches to appropriate 

@@ -1,4 +1,4 @@
-package org.expressme.webwind.renderer;
+package com.cmwebgame.core.renderer;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -7,7 +7,7 @@ import javax.servlet.ServletContext;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import org.expressme.webwind.template.TemplateFactory;
+import com.cmwebgame.core.template.TemplateFactory;
 
 /**
  * Render output using template engine.

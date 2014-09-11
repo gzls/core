@@ -1,9 +1,9 @@
-package org.expressme.webwind.container;
+package com.cmwebgame.core.container;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import org.expressme.webwind.Config;
+import com.cmwebgame.core.Config;
 import org.springframework.context.ApplicationContext;
 import org.springframework.web.context.support.WebApplicationContextUtils;
 

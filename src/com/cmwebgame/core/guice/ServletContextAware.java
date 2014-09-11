@@ -1,4 +1,4 @@
-package org.expressme.webwind.guice;
+package com.cmwebgame.core.guice;
 
 import javax.servlet.ServletContext;
 

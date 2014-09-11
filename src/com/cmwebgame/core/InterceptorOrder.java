@@ -1,4 +1,4 @@
-package org.expressme.webwind;
+package com.cmwebgame.core;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -1,8 +1,8 @@
-package org.expressme.webwind.template;
+package com.cmwebgame.core.template;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-import org.expressme.webwind.Config;
+import com.cmwebgame.core.Config;
 
 /**
  * TemplateFactory which uses JSP.

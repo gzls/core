@@ -1,4 +1,4 @@
-package org.expressme.webwind.container;
+package com.cmwebgame.core.container;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,10 +9,10 @@ import javax.servlet.ServletContext;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-import org.expressme.webwind.Config;
-import org.expressme.webwind.ConfigException;
-import org.expressme.webwind.Destroyable;
-import org.expressme.webwind.guice.ServletContextAware;
+import com.cmwebgame.core.Config;
+import com.cmwebgame.core.ConfigException;
+import com.cmwebgame.core.Destroyable;
+import com.cmwebgame.core.guice.ServletContextAware;
 
 import com.google.inject.Binding;
 import com.google.inject.Guice;
